@@ -58,7 +58,6 @@ export const profileConfig: ProfileConfig = {
 	bio: "This is Owen’s journal.",
 	links: [
 		{
-		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/hambo-aba",
