@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "Discord",
-			url: "https://github.com/hambo-aba", // Internal links should not include the base path, as it is automatically added
+			url: "https://discord.com/users/1218555865871810621", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://github.com/hambo-aba",
+			url: "https://discord.com/users/1218555865871810621",
 		},
 	],
 };
